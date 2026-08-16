@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-P.S: Для более удобного просмотра сайта предоставлена ссылка на GitHub Pages: 🔗[GitHub](https://t1nder.github.io/WH/)
+P.S: Для более удобного просмотра сайта предоставлена ссылка на GitHub Pages: 🔗[GitHub Pages](https://t1nder.github.io/Constructor/)
 
 ### 📌 Примечание
 Проект является учебным и предназначен для демонстрации навыков работы с React и Vite.
